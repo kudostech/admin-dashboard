@@ -2,7 +2,7 @@
 
 A modern, responsive Admin Dashboard built with **React**, **Tailwind CSS**, and **Vite**. Designed with clean UI principles and built for scalability. Includes light/dark mode, sidebar navigation, and reusable components.
 
-🔗 **Live Demo:** [https://admin-dashboard-yourname.vercel.app](https://admin-dashboard-Kudostech.vercel.app)
+🔗 **Live Demo:** [https://admin-dashboard-kudostech.vercel.app](https://admin-dashboard-Kudostech.vercel.app)
 
 ---
 
