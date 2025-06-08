@@ -1,8 +1,11 @@
 module.exports = {
-  darkMode: 'class', // or 'media' if you're using system preference
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  darkMode: 'class', // Important for manual theme toggle
   theme: {
     extend: {},
   },
   plugins: [],
-};
-
+}
