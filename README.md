@@ -8,7 +8,7 @@ A modern, responsive Admin Dashboard built with **React**, **Tailwind CSS**, and
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](./Thumbnail.png)
+![Dashboard Screenshot](https://imgur.com/a/Mhk98mm)
 
 ---
 
